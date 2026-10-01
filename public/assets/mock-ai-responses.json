@@ -1,0 +1,25 @@
+{
+  "responses": [
+    {
+      "keywords": ["hello", "hi", "hey", "start", "welcome"],
+      "answer": "Hello! I am your AI Interview Assistant. How can I help you prepare today? You can ask me practice questions, interview techniques (like the STAR method), or core technical concepts!"
+    },
+    {
+      "keywords": ["star", "behavioral", "situation", "method"],
+      "answer": "The STAR method is great for answering behavioral questions:\n\n• S (Situation): Set the context for your story.\n• T (Task): Describe your responsibility.\n• A (Action): Explain the specific actions you took.\n• R (Result): Share the outcomes and measurable results achieved!"
+    },
+    {
+      "keywords": ["angular", "component", "rxjs", "routing", "framework"],
+      "answer": "Angular is a component-based TypeScript framework. Core concepts include:\n1. Components: UI building blocks (@Component).\n2. Services & DI: Reusable business logic injected with @Injectable.\n3. RxJS: Reactive programming with Observables (like HttpClient responses).\n4. Reactive Forms: Strong validation control over forms!"
+    },
+    {
+      "keywords": ["resume", "cv", "experience", "projects"],
+      "answer": "To make your resume stand out to interviewers:\n1. Quantify achievements (e.g., 'Improved load time by 30%').\n2. Highlight core technologies used (Angular, TypeScript, RxJS).\n3. Briefly describe key technical challenges solved in your projects!"
+    },
+    {
+      "keywords": ["tell me about yourself", "introduce", "intro"],
+      "answer": "When answering 'Tell me about yourself':\n1. Present: State your current role/degree and primary tech stack.\n2. Past: Briefly highlight 1-2 relevant projects or achievements.\n3. Future: State why you're excited about this role and how you can contribute!"
+    }
+  ],
+  "defaultResponse": "I can help with Angular, TypeScript, JavaScript, RxJS, frontend topics, coding problems, and interview prep. Try asking about Angular, dependency injection, TypeScript types, reduce, async/await, responsive design, or coding challenges like palindrome or factorial."
+}
